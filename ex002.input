@@ -1,0 +1,23 @@
+#assign the value of 23 to the variable "a"
+a=23
+
+#assign the value in the variable "a" to the variable "b"
+b=a
+
+#print the values of "a"
+print(a)
+
+#print the values of "a" and "b"
+print(a,b)
+
+#What is "b=a+1"? Assign the value of "a" plus 1 to "b"
+b=a+1
+
+#print the value of variable b
+print(b)
+
+#What is "a=a+1"? add 1 to the current value of "a", and assign the result to "a"
+a=a+1
+
+#print the value of variables a and b
+print(a,b)
