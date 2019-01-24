@@ -7,7 +7,6 @@ time = distance / speed
 gallons = distance / mpg 
 cost = gallons * costPerGallon
 
-time
 print(time)
 print(gallons)
 print(cost)
