@@ -1,5 +1,4 @@
-Data for falling mass experiment
-Date: 16-Aug-2013
+Data for falling mass experimentDate: 16-Aug-2013
 Data taken by Lauren and John
 
  data point time (sec) height (mm) uncertainty (mm)
